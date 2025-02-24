@@ -25,23 +25,23 @@ The Software Development Life Cycle (SDLC) consists of several phases, including
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall: Sequential approach with distinct phases (e.g., requirements, design, implementation) flowing downwards like a waterfall.
+-Waterfall: Sequential approach with distinct phases (e.g., requirements, design, implementation) flowing downwards like a waterfall.
   - Agile: Iterative and incremental approach focused on flexibility, collaboration, and responding to change.
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-Software Developer: Responsible for writing code and implementing software solutions.
-   Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
-    Project Manager: Oversees the planning, execution, and delivery of software projects
+-Software Developer: Responsible for writing code and implementing software solutions.
+   -Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
+     -Project Manager: Oversees the planning, execution, and delivery of software projects
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-IDES  are Software suites that provide comprehensive tools for writing, debugging, and testing code (e.g., Visual Studio, Eclipse, IntelliJ IDEA).
- VCS  Software tools for tracking changes to source code and coordinating work among team members (e.g., Git, Subversion).
+-IDES  are Software suites that provide comprehensive tools for writing, debugging, and testing code (e.g., Visual Studio, Eclipse, IntelliJ IDEA).
+ -VCS  Software tools for tracking changes to source code and coordinating work among team members (e.g., Git, Subversion).
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
-Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
-Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
-Strategies for Overcoming Challenges: Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
+-Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
+-Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
+-Strategies for Overcoming Challenges: Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
@@ -55,12 +55,12 @@ Importance of Quality Control: Quality control measures such as code reviews, au
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-Prompt engineering is all crafting questions or statements to get the best possible responses from AI models.
-Prompt engineering helps  make your questions clear and specific, so the AI understands exactly what you need."
+ -Prompt engineering is all crafting questions or statements to get the best possible responses from AI models.
+ -prompt engineering helps  make your questions clear and specific, so the AI understands exactly what you need."
 
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-write code in c to perform basic arithmetic operations
-i will get a more focused response
+ Tell me about the history of domestic dogs
+ i will get a more focused response
 
